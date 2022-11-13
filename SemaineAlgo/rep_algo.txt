@@ -1,0 +1,19 @@
+Pour tester le meilleur et le pire cas nous avons effectuer les tris en deux tableau.
+Le premier tableau fait: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Le deuxième tableau va de 9 à 0.
+
+Tri sélection:
+Le premier a un compteur qui est égale à 27.
+Le deuxième tableau a un compteur qui est égale à 52.
+
+Tri insertion:
+Le premier tableau a un compteur qui est égale à 9.
+Le deuxième tableau a un compteur qui est égale à 144.
+
+Tri à bulle:
+Le premier tableau a un compteur qui est égale à 10.
+Le deuxième tableau a un compteur qui est égale à 190.
+
+Tri à bulle optimisé:
+Le premier tableau a un compteur qui est égale à 45.
+Le deuxième tableau a un compteur qui est égale à 180.

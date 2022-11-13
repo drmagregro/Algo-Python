@@ -1,0 +1,19 @@
+Réponse du tri a bulle:
+10 20.2
+15 59.2
+20 139.2
+
+Réponse du tri à bulle optimisé:
+10 16.8
+15 66.4
+20 143.4
+
+Réponse du tri insertion:
+10 19.8
+15 53.8
+20 115.8
+
+Réponse du tri sélection:
+10 8.2
+15 20.8
+20 39.4

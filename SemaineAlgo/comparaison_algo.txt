@@ -1,0 +1,5 @@
+COMPARAISON DES ALGORITHMES:
+
+Quand les listes sont presque déjà triée, les plus efficaces sont les tris à bulles et les tris insertion.
+
+Et quand les listes ne sont pas triées le tri le plus efficace est le tri à sélection
